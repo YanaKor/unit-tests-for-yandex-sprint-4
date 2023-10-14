@@ -1,2 +1,17 @@
-#qa-python
+# Описание проекта
 
+Проект содержит тесты, покрывающий методы класса "BookCollector"
+
+
+# Список добавленных тестов: 
+- test_add_new_book_add_two_books
+- test_add_new_book_two_items_with_similar_name_added_only_one
+- test_add_new_book_with_null_or_more_than_40_symbols_name
+- test_add_new_book_with_1_or_40_symbols
+- test_set_book_genre_set_genre_from_list_genre_assigned_to_book
+- test_get_book_genre_for_book_without_genre
+- test_get_book_with_specific_genre
+- test_get_books_for_children
+- test_add_book_in_favourites
+- test_add_book_in_favourites_add_one_book_twice
+- test_delete_book_from_favourites
